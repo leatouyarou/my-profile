@@ -1,0 +1,185 @@
+
+  body{
+
+background: #CDBBA7;
+
+    font-weight: lighter;
+
+    font-family: 'Architects Daughter', cursive;
+
+  
+
+ 
+
+}
+
+ 
+
+ 
+
+h1{
+
+color: #c4a35a;
+
+font-size: 22px;
+
+font-family: 'Shadows Into Light', cursive;
+
+letter-spacing: 4px;
+
+font-weight: bolder;
+
+}
+
+ 
+
+h2{
+
+color: #c4a35a ;
+
+font-size: 20px;
+
+font-family: 'Shadows Into Light', cursive;
+
+font-weight: bolder;
+
+letter-spacing: 3px;
+
+}
+
+ 
+
+<h3{
+
+font-size: 22px;
+
+}
+
+ 
+
+ 
+
+/* custom design */
+
+ 
+
+.container{
+
+              width: 700px;
+
+              margin: 40px auto;
+
+}
+
+ 
+
+@media (max-width:  760px ) {
+
+    .container {
+
+        width:  600px;
+
+    }
+
+}
+
+ 
+
+@media (max-width:  500px ) {
+
+    .container {
+
+        width:  400px;
+
+    }
+
+}
+
+ 
+
+ 
+
+.card-white {
+
+ 
+
+              background-color: #F4DFD0;
+              #e5e5dc;
+
+              padding: 40px;
+
+              box-shadow: 0px 10px 30px rgba(0, 0, 0, 1.0);
+
+              border-radius: 6px;
+
+              margin: 20px 0px;
+
+              text-align: center;
+
+ 
+
+} 
+
+ 
+
+ 
+
+ 
+
+.img-circle {
+
+ 
+
+              border-radius: 50%;
+
+ 
+
+}
+
+ 
+
+ 
+
+.list-line {
+
+              list-style: none;
+
+              padding-left: 0px;
+
+}
+
+ 
+
+.list-line li {
+
+              display: inline;
+
+              padding: 10px;
+
+}
+
+ 
+
+.list-line i {
+
+              font-size: 50px;
+
+              color: rgb(150, 131, 256);
+
+}
+
+ 
+
+.list-line i:hover{
+
+              color: black;
+
+}
+
+ 
+
+#introduction p {
+
+              margin-bottom: 40px;
+
+}
